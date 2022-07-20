@@ -1,0 +1,35 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status,#numberofobjects {
+    font-size: 20px;
+}
+
+canvas {
+    border:5px solid darkcyan;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px cyan;
+}
+
+.footer {
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    background-color: goldenrod;
+    color: blue;
+    font-size: 15px;
+    line-height: 2;
+    text-align: center;
+}
+
+#objectname {
+    width: 30%;
+}
